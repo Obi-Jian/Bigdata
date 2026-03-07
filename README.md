@@ -1,4 +1,4 @@
-# bigdata_0
+# Big data
 
 Questo repository contiene un progetto universitario per l'analisi di dati su dataset reperiti online. Il progetto utilizza strumenti di analisi dati avanzati per esplorare e generare insight significativi dai dataset.
 
@@ -34,9 +34,6 @@ git clone https://github.com/Obi-Jian/bigdata_0.git
 cd bigdata_0
    ```
 3. Aprire ed eseguire i notebook Jupyter per esaminare l'analisi dei dataset.
-
-## Contributi
-Contributi e suggerimenti sono i benvenuti. Si prega di creare un'issue per discutere ogni modifica che si desidera apportare.
 
 ---
 
