@@ -26,13 +26,13 @@ I dataset utilizzati in questo progetto sono stati trovati online e sono inclusi
 
 ## Utilizzo
 1. Clonare il repository:
-   ```bash
+```bash
 git clone https://github.com/Obi-Jian/bigdata_0.git
-   ```
+```
 2. Navigare nella directory del progetto:
-   ```bash
+```bash
 cd bigdata_0
-   ```
+```
 3. Aprire ed eseguire i notebook Jupyter per esaminare l'analisi dei dataset.
 
 ---
